@@ -1,7 +1,6 @@
 ##################################################################################################
 #  STEP 0: If Dataset file not present, downlowad and unzip Dataset
 ##################################################################################################
-setwd("~/3. RGA/Cursos/Kaggle-Data Science-R/Getting and Cleaning Data - Johns Hopkins/Project")
 if(!file.exists("data.zip")) {
   fileurl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
   download.file(fileurl, "data.zip")
