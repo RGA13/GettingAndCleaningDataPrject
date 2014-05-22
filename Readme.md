@@ -18,3 +18,5 @@ To run the script please follow these instructions:
 5. Highlight all content of run_analysis.R (by clicking in the run_analysis.R source window and then ctrl-A to select all), then click on the Run button at the top-right of the run_analysis.R source window.
 
 run_analysis.R contains detailed comments on what the R script is doing.
+
+At the end of the execution the file tidyds.txt will be in the working directory

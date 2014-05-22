@@ -25,7 +25,7 @@ There are 66 columns of sensor data in the file created as columns with referenc
 The 68 columns are as follows:
 
 - subject (a number 1-30, for each of the 30 Subjects)
-- activity.desc (one of these 6 descriptions: "Walking", "Walking Upstairs", "Walking Downstairs", "Sitting", "Standing", "Laying")
+- activity.desc (one of these 6 descriptions: "Laying", "Sitting", "Standing", "Walking", "Walking Downstairs", "Walking Upstairs")
 
 3 through 68 are the measurements as follows:
 - t.body.acc.mean.x
